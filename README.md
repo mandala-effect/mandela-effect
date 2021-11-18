@@ -17,9 +17,9 @@ Co-Founder/Host of a podcast where three minorities come together to voice their
 
 More exclusively, a Full Stack Software Engineer experienced in Node.js, React.js and database concepts such as MongoDB/PosgreSQL, with a passion for digital design and incorporating that into my frontends. I genuinely enjoy a great challenge in projects - getting outside my comfort zone and learning something new is always the goal.
 
-![https://jason-hargrove-portfolio.herokuapp.com/](https://media-exp1.licdn.com/dms/image/D5635AQHx__Ls0txhGQ/profile-framedphoto-shrink_400_400/0/1626440989394?e=1637348400&v=beta&t=M1qzjyvkvGyfCaBqp112cmIhV4qb7iBrzoV4Kf7fxYE)
+![https://jason-hargrove-portfolio.herokuapp.com/](https://media-exp1.licdn.com/dms/image/D5635AQHx__Ls0txhGQ/profile-framedphoto-shrink_200_200/0/1626440989394?e=1637348400&v=beta&t=4PeQL_zdvihHquIYJw31tSg9cR9I0niEiqUiB7UggIE)
 
-Jason Hargrove is a Software Engineer with a background in fine art and graphic design, able to tackle hidden problems by finding connections between seemingly unrelated things. 
+Jason Hargrove is a Software Engineer with a background in fine art and graphic design, able to tackle hidden problems by finding connections between seemingly unrelated things.
 
 Passionate about helping clients overcome barriers to technology with well designed, user friendly, unique products.
 
