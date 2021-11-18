@@ -1,6 +1,8 @@
 # Mandela Effect
 A Full-stack app that lets people express their creativity in a visual format. Created for Mitbean's hackathon titled "Pain App - Becoming Bob Ross"
 
+#Test-and-delete
+
 # Who Are We?
 
 ![https://www.katherinevgomez.com](https://media-exp1.licdn.com/dms/image/C5603AQEtzmhSSjWllw/profile-displayphoto-shrink_200_200/0/1607738092676?e=1642636800&v=beta&t=6u7yAa3fA5xgUSGSS_d1Qja5qqoIfJQGSmjsXx5EeiE)
